@@ -27,7 +27,7 @@
 
 //             let signers = provider.getSigner();
 //             let user = contract.connect(signers);
-//             await user
+//             await usery
 //                 .createUser("adityanithariya")
 //                 .then(async (tx) => {
 //                     await tx.wait();
