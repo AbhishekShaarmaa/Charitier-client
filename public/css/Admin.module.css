@@ -1,0 +1,15 @@
+.container {
+    display: grid;
+    grid-template-columns: 10% 70% 20%;
+    /* gap: 5px; */
+}
+
+.root div {
+    background-color: aliceblue;
+    padding: 5px;
+    color: rgb(24, 24, 24);
+    border-radius: 4px;
+}
+.btn::visited {
+    color: aliceblue;
+}
